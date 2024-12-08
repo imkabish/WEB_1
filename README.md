@@ -34,4 +34,5 @@ The website provides:
 
 ---
 
-## Folder Structure
+### Author
+This project was created as part of an academic assignment. For any suggestions or improvements, feel free to contribute or raise an issue.
