@@ -11,7 +11,7 @@ The website provides:
 - Links to popular platforms and tools for AI development.
 
 ---
-![My Local Image](Site_Map_V1.png)
+![My Local Image](Image/Site_Map_V1.png)
 ---
 
 ## How to Use
