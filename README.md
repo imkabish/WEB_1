@@ -11,6 +11,8 @@ The website provides:
 - Links to popular platforms and tools for AI development.
 
 ---
+![My Local Image](Site_Map_V1.png)
+---
 
 ## How to Use
 1. Clone or download the repository.
